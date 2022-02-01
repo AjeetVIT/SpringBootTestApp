@@ -9,6 +9,7 @@ public class MessageRunner implements CommandLineRunner {
 	public void run(String... args) throws Exception {
 		// TODO Auto-generated method stub
 		System.out.println("Welcome To SringBoot App!!!");
+		System.out.println("Hello Mr. How DO u Do");
 
 	}
 
